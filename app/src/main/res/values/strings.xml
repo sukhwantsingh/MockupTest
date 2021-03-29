@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MockupTest</string>
+
+    <string name="dummy_text">Lorium ipsum is dummy text used in place of the placeholder of the text and generator, This is a test created over to check the text</string>
+    <string name="title">Title</string>
+    <string name="chatrooms">Chatrooms</string>
+    <string name="chatroom">Chatroom</string>
+    <string name="search">Search...</string>
+</resources>
